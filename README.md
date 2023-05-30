@@ -2,7 +2,7 @@
 An animal chess game with GUI made with OOP in Java as my major course output for CCPROG3. Inluded in this repository are the UML diagram, test case document, and of course the jar file.
 
 <figure>
-    <img src="https://i.postimg.cc/0NZGgbh5/preview.png" style="width: 80%">
+    <img src="https://i.ibb.co/6DZJ39W/preview.png" style="width: 80%">
     <figcaption style="text-align: center">Game preview</figcaption>
 </figure>
 
