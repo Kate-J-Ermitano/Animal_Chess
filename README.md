@@ -7,4 +7,4 @@ An animal chess game with GUI made with OOP in Java as my major course output fo
 </figure>
 
 <h2>💌 Credits ✉️</h2>
-This project is done by <b>KAWACHI, Hideki</b> and <b>ERMITANO, Kate Justine</b> as a requirement to pass CCPROG3 under the instructions of <b>Miss Shirley Chu</b>.
+This project is done by <b>KAWACHI, Hideki</b> and <b>ERMITANO, Kate Justine</b> as a requirement to pass CCPROG3 under the instructions of <b>Miss Shirley Chu</b>, submitted on September 12, 2021.
